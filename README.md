@@ -21,4 +21,4 @@ url: [archive.is](http://archive.is/N6TwD)
  - Markað tekstasavn(tagged_corpus.zip)
 
 ## Screenshot
-![stava.fo](./screenshot.png "stava.fo")
+![stava.fo](./screenshot.jpeg "stava.fo")
